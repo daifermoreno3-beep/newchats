@@ -47,7 +47,7 @@
             "displayName": "1",
             "customId": "3",
             "invisible": false,
-            "lastSeen": 1769122540261,
+            "lastSeen": 1769122541746,
             "friends": [
                 "mkpyxxm2yq4eyp1kj5"
             ],
@@ -100,6 +100,16 @@
             "type": "text",
             "content": "te amo",
             "timestamp": 1769122503690,
+            "isForwarded": false
+        },
+        {
+            "id": "mkq1vt428kkxhf5s12e",
+            "chatId": "mkq1uqv6xw9lodo3rbb",
+            "senderId": "mkq1u12b1xw76c4sge1",
+            "receiverId": "mkpyxxm2yq4eyp1kj5",
+            "type": "text",
+            "content": "uy uy",
+            "timestamp": 1769122541090,
             "isForwarded": false
         }
     ],
@@ -183,6 +193,14 @@
             "username": "1",
             "action": "LOGIN",
             "details": "Sesi\u00f3n iniciada"
+        },
+        {
+            "id": 1769122541092,
+            "timestamp": 1769122541092,
+            "userId": "mkq1u12b1xw76c4sge1",
+            "username": "1",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
         }
     ]
 }
