@@ -302,6 +302,14 @@
             "username": "2",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 4"
+        },
+        {
+            "id": 1769122584073,
+            "timestamp": 1769122584073,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
