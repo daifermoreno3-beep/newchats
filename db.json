@@ -16,7 +16,9 @@
             "darkMode": false,
             "statusNote": "",
             "isAdmin": false,
-            "friendRequests": [],
+            "friendRequests": [
+                "mkq1w95gyiqgvoq5nb"
+            ],
             "chatRequests": [],
             "joinedAt": 1769117601386
         },
@@ -67,7 +69,7 @@
             "displayName": "2",
             "customId": "4",
             "invisible": false,
-            "lastSeen": 1769122568682,
+            "lastSeen": 1769122570177,
             "friends": [],
             "blockedUsers": [],
             "archivedChats": [],
