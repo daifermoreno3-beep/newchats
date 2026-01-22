@@ -7,16 +7,16 @@
             "displayName": "difer",
             "customId": "1",
             "invisible": false,
-            "lastSeen": 1769122491277,
-            "friends": [],
+            "lastSeen": 1769122492781,
+            "friends": [
+                "mkq1u12b1xw76c4sge1"
+            ],
             "blockedUsers": [],
             "archivedChats": [],
             "darkMode": false,
             "statusNote": "",
             "isAdmin": false,
-            "friendRequests": [
-                "mkq1u12b1xw76c4sge1"
-            ],
+            "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769117601386
         },
@@ -48,7 +48,9 @@
             "customId": "3",
             "invisible": false,
             "lastSeen": 1769122477751,
-            "friends": [],
+            "friends": [
+                "mkpyxxm2yq4eyp1kj5"
+            ],
             "blockedUsers": [],
             "archivedChats": [],
             "darkMode": false,
@@ -59,7 +61,16 @@
             "joinedAt": 1769122458083
         }
     ],
-    "chats": [],
+    "chats": [
+        {
+            "id": "mkq1uqv6xw9lodo3rbb",
+            "type": "private",
+            "members": [
+                "mkpyxxm2yq4eyp1kj5",
+                "mkq1u12b1xw76c4sge1"
+            ]
+        }
+    ],
     "messages": [],
     "logs": [
         {
