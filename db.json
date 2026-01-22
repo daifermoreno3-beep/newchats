@@ -65,6 +65,14 @@
             "username": "difer",
             "action": "LOGIN",
             "details": "Sesi\u00f3n iniciada"
+        },
+        {
+            "id": 1769122410509,
+            "timestamp": 1769122410509,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
