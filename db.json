@@ -191,6 +191,26 @@
             "content": "hola",
             "timestamp": 1769122605794,
             "isForwarded": false
+        },
+        {
+            "id": "mkq1xa8yefn66w2aahs",
+            "chatId": "mkq1wsnmquyp6le9bqa",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq1w95gyiqgvoq5nb",
+            "type": "text",
+            "content": "hagamso un grupo",
+            "timestamp": 1769122609954,
+            "isForwarded": false
+        },
+        {
+            "id": "mkq1xb3vnbh7h9cktol",
+            "chatId": "mkq1wsnmquyp6le9bqa",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq1w95gyiqgvoq5nb",
+            "type": "text",
+            "content": "si va",
+            "timestamp": 1769122611067,
+            "isForwarded": false
         }
     ],
     "logs": [
@@ -333,6 +353,14 @@
         {
             "id": 1769122605795,
             "timestamp": 1769122605795,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1wsnmquyp6le9bqa"
+        },
+        {
+            "id": 1769122609956,
+            "timestamp": 1769122609956,
             "userId": "mkpyxxm2yq4eyp1kj5",
             "username": "difer",
             "action": "MENSAJE",
