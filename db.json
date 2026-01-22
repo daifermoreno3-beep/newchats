@@ -660,6 +660,14 @@
             "username": "1",
             "action": "MENSAJE",
             "details": "Enviado a chat mkq1xisqf4oqa3nhso"
+        },
+        {
+            "id": 1769124813818,
+            "timestamp": 1769124813818,
+            "userId": "mkq38ia5cpkqgyecoc",
+            "username": "daifer",
+            "action": "REGISTRO",
+            "details": "Cuenta creada con ID: 5"
         }
     ]
 }
