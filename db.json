@@ -175,6 +175,14 @@
             "username": "difer",
             "action": "MENSAJE",
             "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
+        },
+        {
+            "id": 1769122535738,
+            "timestamp": 1769122535738,
+            "userId": "mkq1u12b1xw76c4sge1",
+            "username": "1",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
