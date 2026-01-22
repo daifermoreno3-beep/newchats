@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "password": "2080",
+            "displayName": "difer",
+            "customId": "1",
+            "invisible": false,
+            "lastSeen": 1769117601386,
+            "friends": [],
+            "blockedUsers": [],
+            "archivedChats": [],
+            "darkMode": false,
+            "statusNote": "",
+            "isAdmin": false,
+            "friendRequests": [],
+            "chatRequests": [],
+            "joinedAt": 1769117601386
+        }
+    ],
+    "chats": [],
+    "messages": []
+}
