@@ -17,7 +17,9 @@
             "darkMode": false,
             "statusNote": "",
             "isAdmin": false,
-            "friendRequests": [],
+            "friendRequests": [
+                "mkq38ia5cpkqgyecoc"
+            ],
             "chatRequests": [],
             "joinedAt": 1769117601386
         },
@@ -89,7 +91,7 @@
             "displayName": "daifer",
             "customId": "5",
             "invisible": false,
-            "lastSeen": 1769124828875,
+            "lastSeen": 1769124830375,
             "friends": [],
             "blockedUsers": [],
             "archivedChats": [],
