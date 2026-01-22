@@ -7,7 +7,7 @@
             "displayName": "difer",
             "customId": "1",
             "invisible": false,
-            "lastSeen": 1769122627585,
+            "lastSeen": 1769122629085,
             "friends": [
                 "mkq1u12b1xw76c4sge1",
                 "mkq1w95gyiqgvoq5nb"
@@ -242,6 +242,16 @@
             "content": "jasjajsjas",
             "timestamp": 1769122625042,
             "isForwarded": false
+        },
+        {
+            "id": "mkq1xnyj0e7bg50jgzki",
+            "chatId": "mkq1xisqf4oqa3nhso",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": null,
+            "type": "text",
+            "content": "saben que",
+            "timestamp": 1769122627723,
+            "isForwarded": false
         }
     ],
     "logs": [
@@ -416,6 +426,14 @@
         {
             "id": 1769122625044,
             "timestamp": 1769122625044,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1xisqf4oqa3nhso"
+        },
+        {
+            "id": 1769122627724,
+            "timestamp": 1769122627724,
             "userId": "mkpyxxm2yq4eyp1kj5",
             "username": "difer",
             "action": "MENSAJE",
