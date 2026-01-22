@@ -7,7 +7,7 @@
             "displayName": "difer",
             "customId": "1",
             "invisible": false,
-            "lastSeen": 1769122804322,
+            "lastSeen": 1769122808816,
             "friends": [
                 "mkq1u12b1xw76c4sge1",
                 "mkq1w95gyiqgvoq5nb"
@@ -604,6 +604,14 @@
         {
             "id": 1769122804990,
             "timestamp": 1769122804990,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
+        },
+        {
+            "id": 1769122805125,
+            "timestamp": 1769122805125,
             "userId": "mkpyxxm2yq4eyp1kj5",
             "username": "difer",
             "action": "MENSAJE",
