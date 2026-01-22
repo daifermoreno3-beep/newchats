@@ -411,6 +411,16 @@
             "content": "como estas",
             "timestamp": 1769125564077,
             "isForwarded": false
+        },
+        {
+            "id": "mkq3orrpd21nh16o58d",
+            "chatId": "mkq3jkaqkcw88oxpmge",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq38ia5cpkqgyecoc",
+            "type": "text",
+            "content": "espero que bien",
+            "timestamp": 1769125571989,
+            "isForwarded": false
         }
     ],
     "logs": [
