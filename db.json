@@ -81,6 +81,16 @@
             "content": "hola como estas",
             "timestamp": 1769122498114,
             "isForwarded": false
+        },
+        {
+            "id": "mkq1uyia5ndl0fnbbfe",
+            "chatId": "mkq1uqv6xw9lodo3rbb",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq1u12b1xw76c4sge1",
+            "type": "text",
+            "content": "espero que bien",
+            "timestamp": 1769122501426,
+            "isForwarded": false
         }
     ],
     "logs": [
@@ -135,6 +145,14 @@
         {
             "id": 1769122498153,
             "timestamp": 1769122498153,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
+        },
+        {
+            "id": 1769122501428,
+            "timestamp": 1769122501428,
             "userId": "mkpyxxm2yq4eyp1kj5",
             "username": "difer",
             "action": "MENSAJE",
