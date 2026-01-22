@@ -37,6 +37,24 @@
             ],
             "chatRequests": [],
             "joinedAt": 1769117687306
+        },
+        {
+            "id": "mkq1u12b1xw76c4sge1",
+            "username": "1",
+            "password": "1",
+            "displayName": "1",
+            "customId": "3",
+            "invisible": false,
+            "lastSeen": 1769122458083,
+            "friends": [],
+            "blockedUsers": [],
+            "archivedChats": [],
+            "darkMode": false,
+            "statusNote": "",
+            "isAdmin": false,
+            "friendRequests": [],
+            "chatRequests": [],
+            "joinedAt": 1769122458083
         }
     ],
     "chats": [],
