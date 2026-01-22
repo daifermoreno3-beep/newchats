@@ -71,7 +71,18 @@
             ]
         }
     ],
-    "messages": [],
+    "messages": [
+        {
+            "id": "mkq1uvyap73n310e4cg",
+            "chatId": "mkq1uqv6xw9lodo3rbb",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq1u12b1xw76c4sge1",
+            "type": "text",
+            "content": "hola como estas",
+            "timestamp": 1769122498114,
+            "isForwarded": false
+        }
+    ],
     "logs": [
         {
             "id": 1769117602433,
@@ -120,6 +131,14 @@
             "username": "difer",
             "action": "LOGIN",
             "details": "Sesi\u00f3n iniciada"
+        },
+        {
+            "id": 1769122498153,
+            "timestamp": 1769122498153,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
         }
     ]
 }
