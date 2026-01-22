@@ -81,6 +81,24 @@
             "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769122561876
+        },
+        {
+            "id": "mkq38ia5cpkqgyecoc",
+            "username": "daifer",
+            "password": "2080",
+            "displayName": "daifer",
+            "customId": "5",
+            "invisible": false,
+            "lastSeen": 1769124813197,
+            "friends": [],
+            "blockedUsers": [],
+            "archivedChats": [],
+            "darkMode": false,
+            "statusNote": "",
+            "isAdmin": false,
+            "friendRequests": [],
+            "chatRequests": [],
+            "joinedAt": 1769124813197
         }
     ],
     "chats": [
