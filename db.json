@@ -10,16 +10,15 @@
             "lastSeen": 1769122808816,
             "friends": [
                 "mkq1u12b1xw76c4sge1",
-                "mkq1w95gyiqgvoq5nb"
+                "mkq1w95gyiqgvoq5nb",
+                "mkq38ia5cpkqgyecoc"
             ],
             "blockedUsers": [],
             "archivedChats": [],
             "darkMode": false,
             "statusNote": "",
             "isAdmin": false,
-            "friendRequests": [
-                "mkq38ia5cpkqgyecoc"
-            ],
+            "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769117601386
         },
@@ -92,7 +91,9 @@
             "customId": "5",
             "invisible": false,
             "lastSeen": 1769124980275,
-            "friends": [],
+            "friends": [
+                "mkpyxxm2yq4eyp1kj5"
+            ],
             "blockedUsers": [],
             "archivedChats": [],
             "darkMode": false,
@@ -130,6 +131,14 @@
                 "mkq1w95gyiqgvoq5nb"
             ],
             "admin": "mkpyxxm2yq4eyp1kj5"
+        },
+        {
+            "id": "mkq3jkaqkcw88oxpmge",
+            "type": "private",
+            "members": [
+                "mkpyxxm2yq4eyp1kj5",
+                "mkq38ia5cpkqgyecoc"
+            ]
         }
     ],
     "messages": [
