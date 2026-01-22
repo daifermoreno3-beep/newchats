@@ -7,7 +7,7 @@
             "displayName": "difer",
             "customId": "1",
             "invisible": false,
-            "lastSeen": 1769122802825,
+            "lastSeen": 1769122804322,
             "friends": [
                 "mkq1u12b1xw76c4sge1",
                 "mkq1w95gyiqgvoq5nb"
@@ -282,6 +282,66 @@
             "content": "1",
             "timestamp": 1769122803898,
             "isForwarded": false
+        },
+        {
+            "id": "mkq21g4rsy8hx7s45o9",
+            "chatId": "mkq1uqv6xw9lodo3rbb",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq1u12b1xw76c4sge1",
+            "type": "text",
+            "content": "1",
+            "timestamp": 1769122804203,
+            "isForwarded": false
+        },
+        {
+            "id": "mkq21gc4gxf1ph4z5u",
+            "chatId": "mkq1uqv6xw9lodo3rbb",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq1u12b1xw76c4sge1",
+            "type": "text",
+            "content": "1",
+            "timestamp": 1769122804468,
+            "isForwarded": false
+        },
+        {
+            "id": "mkq21ggqr38uwy7re9",
+            "chatId": "mkq1uqv6xw9lodo3rbb",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq1u12b1xw76c4sge1",
+            "type": "text",
+            "content": "1",
+            "timestamp": 1769122804634,
+            "isForwarded": false
+        },
+        {
+            "id": "mkq21glunixcloc3uzq",
+            "chatId": "mkq1uqv6xw9lodo3rbb",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq1u12b1xw76c4sge1",
+            "type": "text",
+            "content": "1",
+            "timestamp": 1769122804818,
+            "isForwarded": false
+        },
+        {
+            "id": "mkq21gqj99gpi2qos86",
+            "chatId": "mkq1uqv6xw9lodo3rbb",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq1u12b1xw76c4sge1",
+            "type": "text",
+            "content": "1",
+            "timestamp": 1769122804987,
+            "isForwarded": false
+        },
+        {
+            "id": "mkq21guahcak2gr82f",
+            "chatId": "mkq1uqv6xw9lodo3rbb",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq1u12b1xw76c4sge1",
+            "type": "text",
+            "content": "1",
+            "timestamp": 1769122805122,
+            "isForwarded": false
         }
     ],
     "logs": [
@@ -496,6 +556,54 @@
         {
             "id": 1769122802750,
             "timestamp": 1769122802750,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
+        },
+        {
+            "id": 1769122803901,
+            "timestamp": 1769122803901,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
+        },
+        {
+            "id": 1769122804206,
+            "timestamp": 1769122804206,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
+        },
+        {
+            "id": 1769122804473,
+            "timestamp": 1769122804473,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
+        },
+        {
+            "id": 1769122804637,
+            "timestamp": 1769122804637,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
+        },
+        {
+            "id": 1769122804821,
+            "timestamp": 1769122804821,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1uqv6xw9lodo3rbb"
+        },
+        {
+            "id": 1769122804990,
+            "timestamp": 1769122804990,
             "userId": "mkpyxxm2yq4eyp1kj5",
             "username": "difer",
             "action": "MENSAJE",
