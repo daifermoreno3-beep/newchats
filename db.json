@@ -47,6 +47,14 @@
             "username": "difer",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 1"
+        },
+        {
+            "id": 1769117688127,
+            "timestamp": 1769117688127,
+            "userId": "mkpyzrwq5d1f8tx8aoa",
+            "username": "Gabo18",
+            "action": "REGISTRO",
+            "details": "Cuenta creada con ID: 2"
         }
     ]
 }
