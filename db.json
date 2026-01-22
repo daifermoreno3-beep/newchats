@@ -252,6 +252,16 @@
             "content": "saben que",
             "timestamp": 1769122627723,
             "isForwarded": false
+        },
+        {
+            "id": "mkq1xpoioyf4a2l6pmp",
+            "chatId": "mkq1xisqf4oqa3nhso",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": null,
+            "type": "text",
+            "content": "no nose",
+            "timestamp": 1769122629954,
+            "isForwarded": false
         }
     ],
     "logs": [
@@ -434,6 +444,14 @@
         {
             "id": 1769122627724,
             "timestamp": 1769122627724,
+            "userId": "mkpyxxm2yq4eyp1kj5",
+            "username": "difer",
+            "action": "MENSAJE",
+            "details": "Enviado a chat mkq1xisqf4oqa3nhso"
+        },
+        {
+            "id": 1769122629956,
+            "timestamp": 1769122629956,
             "userId": "mkpyxxm2yq4eyp1kj5",
             "username": "difer",
             "action": "MENSAJE",
