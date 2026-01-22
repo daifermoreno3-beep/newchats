@@ -391,6 +391,16 @@
             "content": "1",
             "timestamp": 1769122818730,
             "isForwarded": false
+        },
+        {
+            "id": "mkq3o4q6hfa5hjlv9po",
+            "chatId": "mkq3jkaqkcw88oxpmge",
+            "senderId": "mkpyxxm2yq4eyp1kj5",
+            "receiverId": "mkq38ia5cpkqgyecoc",
+            "type": "text",
+            "content": "ol",
+            "timestamp": 1769125542126,
+            "isForwarded": false
         }
     ],
     "logs": [
