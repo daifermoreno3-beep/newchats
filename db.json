@@ -7,7 +7,7 @@
             "displayName": "difer",
             "customId": "1",
             "invisible": false,
-            "lastSeen": 1769122618576,
+            "lastSeen": 1769122620089,
             "friends": [
                 "mkq1u12b1xw76c4sge1",
                 "mkq1w95gyiqgvoq5nb"
@@ -99,6 +99,17 @@
                 "mkpyxxm2yq4eyp1kj5",
                 "mkq1w95gyiqgvoq5nb"
             ]
+        },
+        {
+            "id": "mkq1xisqf4oqa3nhso",
+            "type": "group",
+            "name": "chismes",
+            "members": [
+                "mkpyxxm2yq4eyp1kj5",
+                "mkq1u12b1xw76c4sge1",
+                "mkq1w95gyiqgvoq5nb"
+            ],
+            "admin": "mkpyxxm2yq4eyp1kj5"
         }
     ],
     "messages": [
