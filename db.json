@@ -139,6 +139,16 @@
                 "mkpyxxm2yq4eyp1kj5",
                 "mkq38ia5cpkqgyecoc"
             ]
+        },
+        {
+            "id": "mkq3klxxzivj9y9ldg",
+            "type": "group",
+            "name": "i",
+            "members": [
+                "mkpyxxm2yq4eyp1kj5",
+                "mkq38ia5cpkqgyecoc"
+            ],
+            "admin": "mkpyxxm2yq4eyp1kj5"
         }
     ],
     "messages": [
