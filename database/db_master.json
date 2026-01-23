@@ -36,7 +36,7 @@
             "archivedChats": [],
             "darkMode": false,
             "statusNote": "TU CREADOR",
-            "isAdmin": false,
+            "isAdmin": true,
             "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769137401032,
