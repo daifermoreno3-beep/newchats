@@ -135,6 +135,13 @@
             "username": "kuaker",
             "action": "LOGIN",
             "details": "Sesi\u00f3n iniciada"
+        },
+        {
+            "timestamp": 1769139067009,
+            "userId": "SYSTEM",
+            "username": "ADMIN",
+            "action": "RANGO",
+            "details": "Kuaker 2 -> Admin"
         }
     ]
 }
