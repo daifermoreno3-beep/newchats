@@ -151,6 +151,15 @@
             "content": "su...",
             "timestamp": 1769139769554,
             "isForwarded": false
+        },
+        {
+            "id": "mkqc5o63",
+            "chatId": "mkqc4bibaztpkgum0uq",
+            "senderId": "mkqbkvq4t3nrnjazgqr",
+            "type": "text",
+            "content": "Adios a mis fotos patas",
+            "timestamp": 1769139797404,
+            "isForwarded": false
         }
     ],
     "logs": [
