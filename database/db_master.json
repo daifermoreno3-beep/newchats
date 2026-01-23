@@ -50,7 +50,7 @@
             "displayName": "Kuaker 2",
             "customId": "4",
             "invisible": false,
-            "lastSeen": 1769137030925,
+            "lastSeen": 1769137104955,
             "friends": [
                 "mkq6if87950pq7eotib"
             ],
@@ -491,13 +491,6 @@
             "username": "kuaker",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 6"
-        },
-        {
-            "timestamp": 1769137101650,
-            "userId": "SYSTEM",
-            "username": "ADMIN",
-            "action": "RANGO",
-            "details": "kuaker -> Admin"
         }
     ]
 }
