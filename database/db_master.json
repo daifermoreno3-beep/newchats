@@ -491,6 +491,14 @@
             "username": "kuaker",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 6"
+        },
+        {
+            "id": 1769137164953,
+            "timestamp": 1769137164953,
+            "userId": "mkq5681p8wec137n81y",
+            "username": "Gabo18",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
