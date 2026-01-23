@@ -187,6 +187,15 @@
             "content": "Uy se me fue",
             "timestamp": 1769139840795,
             "isForwarded": false
+        },
+        {
+            "id": "mkqc6x13",
+            "chatId": "mkqc4bibaztpkgum0uq",
+            "senderId": "mkqbpk8lbugo4yvbeji",
+            "type": "text",
+            "content": "si te doy admin no abusas de tu poder verdad?",
+            "timestamp": 1769139855543,
+            "isForwarded": false
         }
     ],
     "logs": [
