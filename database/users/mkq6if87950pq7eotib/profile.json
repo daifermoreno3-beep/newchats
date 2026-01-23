@@ -10,7 +10,9 @@
         "mkq6gpnq956n3tb135g"
     ],
     "blockedUsers": [],
-    "archivedChats": [],
+    "archivedChats": [
+        null
+    ],
     "darkMode": false,
     "statusNote": "",
     "isAdmin": true,
