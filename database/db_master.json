@@ -98,6 +98,15 @@
             "content": "com oestas",
             "timestamp": 1769129226438,
             "isForwarded": false
+        },
+        {
+            "id": "mkq5w266",
+            "chatId": "mkq577svifhn55w7t5",
+            "senderId": "mkq54y61jjjtbjnbc7",
+            "type": "text",
+            "content": "hp responde",
+            "timestamp": 1769129271294,
+            "isForwarded": false
         }
     ],
     "logs": [
