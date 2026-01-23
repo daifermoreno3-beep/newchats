@@ -53,7 +53,17 @@
             ]
         }
     ],
-    "messages": [],
+    "messages": [
+        {
+            "id": "mkqbkevk",
+            "chatId": "mkqbihm0ac33quyy1uq",
+            "senderId": "mkqaq9876wejxbdzhmb",
+            "type": "text",
+            "content": "uwu",
+            "timestamp": 1769138805584,
+            "isForwarded": false
+        }
+    ],
     "logs": [
         {
             "id": 1769137403604,
