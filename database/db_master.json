@@ -28,7 +28,7 @@
             "displayName": "Kuaker 2",
             "customId": "2",
             "invisible": false,
-            "lastSeen": 1769139542963,
+            "lastSeen": 1769139339960,
             "friends": [
                 "mkqaq9876wejxbdzhmb",
                 "mkqbkvq4t3nrnjazgqr"
@@ -112,6 +112,15 @@
             "type": "text",
             "content": "yuo",
             "timestamp": 1769139087695,
+            "isForwarded": false
+        },
+        {
+            "id": "mkqc0asj",
+            "chatId": "mkqbzfouvqpngla96z",
+            "senderId": "mkqbkvq4t3nrnjazgqr",
+            "type": "text",
+            "content": "So?",
+            "timestamp": 1769139546787,
             "isForwarded": false
         }
     ],
