@@ -270,6 +270,14 @@
             "username": "master",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 5"
+        },
+        {
+            "id": 1769130508115,
+            "timestamp": 1769130508115,
+            "userId": "mkq6gpnq956n3tb135g",
+            "username": "admin",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
