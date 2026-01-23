@@ -133,6 +133,15 @@
             "content": "So?",
             "timestamp": 1769139546787,
             "isForwarded": false
+        },
+        {
+            "id": "mkqc4uwm",
+            "chatId": "mkqc4bibaztpkgum0uq",
+            "senderId": "mkqbkvq4t3nrnjazgqr",
+            "type": "text",
+            "content": "Hijo decidete cual es cual",
+            "timestamp": 1769139759478,
+            "isForwarded": false
         }
     ],
     "logs": [
