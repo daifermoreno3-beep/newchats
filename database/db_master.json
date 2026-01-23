@@ -47,6 +47,14 @@
             "username": "Kuaker 2",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 2"
+        },
+        {
+            "id": 1769137493613,
+            "timestamp": 1769137493613,
+            "userId": "mkqaqb48k9hbd07obbq",
+            "username": "Kuaker 2",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
