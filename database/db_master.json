@@ -288,6 +288,15 @@
             "content": "si",
             "timestamp": 1769140095188,
             "isForwarded": false
+        },
+        {
+            "id": "mkqccdui",
+            "chatId": "mkqc4bibaztpkgum0uq",
+            "senderId": "mkqbpk8lbugo4yvbeji",
+            "type": "text",
+            "content": "a mi tambien",
+            "timestamp": 1769140110618,
+            "isForwarded": false
         }
     ],
     "logs": [
