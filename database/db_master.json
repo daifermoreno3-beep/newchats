@@ -286,6 +286,14 @@
             "username": "master",
             "action": "LOGIN",
             "details": "Sesi\u00f3n iniciada"
+        },
+        {
+            "id": 1769130903694,
+            "timestamp": 1769130903694,
+            "userId": "mkq6gpnq956n3tb135g",
+            "username": "admin",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
