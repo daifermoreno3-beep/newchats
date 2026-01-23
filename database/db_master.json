@@ -129,6 +129,14 @@
             "username": "testuser123",
             "action": "LOGIN",
             "details": "Sesi\u00f3n iniciada"
+        },
+        {
+            "id": 1769128851598,
+            "timestamp": 1769128851598,
+            "userId": "mkq5iji2fe0wh2m6gm7",
+            "username": "testuser123",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
