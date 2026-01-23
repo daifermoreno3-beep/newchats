@@ -85,6 +85,22 @@
             "username": "master",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 3"
+        },
+        {
+            "id": 1769137859119,
+            "timestamp": 1769137859119,
+            "userId": "mkqb02vnm3ggohzugjb",
+            "username": "Papoibychreck",
+            "action": "REGISTRO",
+            "details": "Cuenta creada con ID: 3"
+        },
+        {
+            "id": 1769137862072,
+            "timestamp": 1769137862072,
+            "userId": "mkqb04cgb92tvyq4a29",
+            "username": "Papoibychreck",
+            "action": "REGISTRO",
+            "details": "Cuenta creada con ID: 3"
         }
     ]
 }
