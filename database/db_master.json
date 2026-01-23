@@ -79,6 +79,15 @@
             "content": "hola",
             "timestamp": 1769128117952,
             "isForwarded": false
+        },
+        {
+            "id": "mkq5uxfm",
+            "chatId": "mkq577svifhn55w7t5",
+            "senderId": "mkq54y61jjjtbjnbc7",
+            "type": "text",
+            "content": "hola",
+            "timestamp": 1769129218498,
+            "isForwarded": false
         }
     ],
     "logs": [
