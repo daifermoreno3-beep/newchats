@@ -142,6 +142,13 @@
             "username": "ADMIN",
             "action": "RANGO",
             "details": "Kuaker 2 -> Admin"
+        },
+        {
+            "timestamp": 1769139080573,
+            "userId": "SYSTEM",
+            "username": "ADMIN",
+            "action": "RANGO",
+            "details": "kuaker -> Admin"
         }
     ]
 }
