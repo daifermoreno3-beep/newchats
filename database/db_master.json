@@ -160,6 +160,15 @@
             "content": "Adios a mis fotos patas",
             "timestamp": 1769139797404,
             "isForwarded": false
+        },
+        {
+            "id": "mkqc5wsu",
+            "chatId": "mkqc4bibaztpkgum0uq",
+            "senderId": "mkqbpk8lbugo4yvbeji",
+            "type": "text",
+            "content": "Es que es un sistema algo complejo",
+            "timestamp": 1769139808590,
+            "isForwarded": false
         }
     ],
     "logs": [
