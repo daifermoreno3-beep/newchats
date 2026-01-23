@@ -7,7 +7,7 @@
             "displayName": "difer",
             "customId": "1",
             "invisible": false,
-            "lastSeen": 1769129067556,
+            "lastSeen": 1769129127713,
             "friends": [
                 "mkq5681p8wec137n81y"
             ],
@@ -35,7 +35,7 @@
             "archivedChats": [],
             "darkMode": false,
             "statusNote": "",
-            "isAdmin": false,
+            "isAdmin": true,
             "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769128065853
@@ -44,7 +44,7 @@
             "id": "mkq5iji2fe0wh2m6gm7",
             "username": "testuser123",
             "password": "password123",
-            "displayName": "Test User Updated 1769128860996",
+            "displayName": "testuser123",
             "customId": "3",
             "invisible": false,
             "lastSeen": 1769128640570,
@@ -131,12 +131,11 @@
             "details": "Sesi\u00f3n iniciada"
         },
         {
-            "id": 1769128851598,
-            "timestamp": 1769128851598,
-            "userId": "mkq5iji2fe0wh2m6gm7",
-            "username": "testuser123",
-            "action": "LOGIN",
-            "details": "Sesi\u00f3n iniciada"
+            "timestamp": 1769128941625,
+            "userId": "SYSTEM",
+            "username": "ADMIN",
+            "action": "RANGO",
+            "details": "Gabo18 -> Admin"
         }
     ]
 }
