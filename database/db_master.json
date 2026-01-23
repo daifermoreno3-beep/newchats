@@ -236,6 +236,14 @@
             "username": "difer",
             "action": "LOGIN",
             "details": "Sesi\u00f3n iniciada"
+        },
+        {
+            "id": 1769130237586,
+            "timestamp": 1769130237586,
+            "userId": "mkq6gpnq956n3tb135g",
+            "username": "admin",
+            "action": "REGISTRO",
+            "details": "Cuenta creada con ID: 4"
         }
     ]
 }
