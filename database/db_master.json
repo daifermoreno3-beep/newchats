@@ -15,7 +15,7 @@
             "archivedChats": [],
             "darkMode": false,
             "statusNote": "",
-            "isAdmin": true,
+            "isAdmin": false,
             "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769128006393,
@@ -37,7 +37,7 @@
             "archivedChats": [],
             "darkMode": false,
             "statusNote": "",
-            "isAdmin": false,
+            "isAdmin": true,
             "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769128065853
@@ -509,11 +509,11 @@
             "details": "Sesi\u00f3n iniciada"
         },
         {
-            "timestamp": 1769137201542,
+            "timestamp": 1769137205430,
             "userId": "SYSTEM",
             "username": "ADMIN",
             "action": "RANGO",
-            "details": "difer -> Admin"
+            "details": "Gabo18 -> Admin"
         }
     ]
 }
