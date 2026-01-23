@@ -28,7 +28,7 @@
             "displayName": "Kuaker 2",
             "customId": "2",
             "invisible": false,
-            "lastSeen": 1769140464958,
+            "lastSeen": 1769140099685,
             "friends": [
                 "mkqaq9876wejxbdzhmb",
                 "mkqbkvq4t3nrnjazgqr"
@@ -50,7 +50,7 @@
             "displayName": "Lalala",
             "customId": "3",
             "invisible": false,
-            "lastSeen": 1769139736862,
+            "lastSeen": 1769140490281,
             "friends": [
                 "mkqaqb48k9hbd07obbq",
                 "mkqbpk8lbugo4yvbeji"
@@ -305,42 +305,6 @@
             "type": "text",
             "content": "Arregla eso programador",
             "timestamp": 1769140121265,
-            "isForwarded": false
-        },
-        {
-            "id": "mkqcd666",
-            "chatId": "mkqc4bibaztpkgum0uq",
-            "senderId": "mkqbpk8lbugo4yvbeji",
-            "type": "text",
-            "content": "ma\u00f1ana ya muchos bugs por hoy",
-            "timestamp": 1769140147326,
-            "isForwarded": false
-        },
-        {
-            "id": "mkqcdmpt",
-            "chatId": "mkqc4bibaztpkgum0uq",
-            "senderId": "mkqbpk8lbugo4yvbeji",
-            "type": "text",
-            "content": "pera que falta algo por mostrate",
-            "timestamp": 1769140168769,
-            "isForwarded": false
-        },
-        {
-            "id": "mkqcepjs",
-            "chatId": "mkqbihm0ac33quyy1uq",
-            "senderId": "mkqaqb48k9hbd07obbq",
-            "type": "text",
-            "content": "https:\/\/generator--gabriel18m2024.replit.app",
-            "timestamp": 1769140219096,
-            "isForwarded": false
-        },
-        {
-            "id": "mkqcgie5",
-            "chatId": "mkqc4bibaztpkgum0uq",
-            "senderId": "mkqbpk8lbugo4yvbeji",
-            "type": "text",
-            "content": "revisa wz",
-            "timestamp": 1769140303133,
             "isForwarded": false
         }
     ],
