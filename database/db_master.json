@@ -211,6 +211,15 @@
             "content": "hola",
             "timestamp": 1769131141208,
             "isForwarded": false
+        },
+        {
+            "id": "mkq70ecx",
+            "chatId": "mkq6zrwe2a66n478ly",
+            "senderId": "mkq6gpnq956n3tb135g",
+            "type": "text",
+            "content": "klk 1",
+            "timestamp": 1769131153329,
+            "isForwarded": false
         }
     ],
     "logs": [
