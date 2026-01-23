@@ -93,6 +93,15 @@
             "content": "uwu",
             "timestamp": 1769138805584,
             "isForwarded": false
+        },
+        {
+            "id": "mkqbqgjz",
+            "chatId": "mkqbihm0ac33quyy1uq",
+            "senderId": "mkqaqb48k9hbd07obbq",
+            "type": "text",
+            "content": "yuo",
+            "timestamp": 1769139087695,
+            "isForwarded": false
         }
     ],
     "logs": [
