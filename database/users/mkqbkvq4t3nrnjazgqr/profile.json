@@ -5,16 +5,16 @@
     "displayName": "Lalala",
     "customId": "3",
     "invisible": false,
-    "lastSeen": 1769139501428,
-    "friends": [],
+    "lastSeen": 1769139467163,
+    "friends": [
+        "mkqaqb48k9hbd07obbq"
+    ],
     "blockedUsers": [],
     "archivedChats": [],
     "darkMode": false,
     "statusNote": "",
     "isAdmin": false,
-    "friendRequests": [
-        "mkqaqb48k9hbd07obbq"
-    ],
+    "friendRequests": [],
     "chatRequests": [],
     "joinedAt": 1769138827420
 }

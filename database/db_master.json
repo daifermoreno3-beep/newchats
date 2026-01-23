@@ -30,7 +30,8 @@
             "invisible": false,
             "lastSeen": 1769139339960,
             "friends": [
-                "mkqaq9876wejxbdzhmb"
+                "mkqaq9876wejxbdzhmb",
+                "mkqbkvq4t3nrnjazgqr"
             ],
             "blockedUsers": [],
             "archivedChats": [],
@@ -49,16 +50,16 @@
             "displayName": "Lalala",
             "customId": "3",
             "invisible": false,
-            "lastSeen": 1769139501428,
-            "friends": [],
+            "lastSeen": 1769139467163,
+            "friends": [
+                "mkqaqb48k9hbd07obbq"
+            ],
             "blockedUsers": [],
             "archivedChats": [],
             "darkMode": false,
             "statusNote": "",
             "isAdmin": false,
-            "friendRequests": [
-                "mkqaqb48k9hbd07obbq"
-            ],
+            "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769138827420
         },
@@ -82,6 +83,14 @@
             "type": "private",
             "members": [
                 "mkqaq9876wejxbdzhmb",
+                "mkqaqb48k9hbd07obbq"
+            ]
+        },
+        {
+            "id": "mkqbzfouvqpngla96z",
+            "type": "private",
+            "members": [
+                "mkqbkvq4t3nrnjazgqr",
                 "mkqaqb48k9hbd07obbq"
             ]
         }
