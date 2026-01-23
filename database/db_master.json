@@ -270,6 +270,15 @@
             "content": "Dura mucho para enviar algoo",
             "timestamp": 1769140059167,
             "isForwarded": false
+        },
+        {
+            "id": "mkqcbr9s",
+            "chatId": "mkqc4bibaztpkgum0uq",
+            "senderId": "mkqbkvq4t3nrnjazgqr",
+            "type": "text",
+            "content": "Me super estresaa",
+            "timestamp": 1769140081360,
+            "isForwarded": false
         }
     ],
     "logs": [
