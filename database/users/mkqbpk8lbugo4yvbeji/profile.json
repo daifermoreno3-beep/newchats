@@ -5,7 +5,9 @@
     "displayName": "Master Admin",
     "isAdmin": true,
     "customId": "0",
-    "friends": [],
+    "friends": [
+        "mkqbkvq4t3nrnjazgqr"
+    ],
     "friendRequests": [],
     "chatRequests": [],
     "blockedUsers": [],
