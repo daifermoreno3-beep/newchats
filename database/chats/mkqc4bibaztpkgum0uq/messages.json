@@ -114,5 +114,14 @@
         "content": "no no",
         "timestamp": 1769139995643,
         "isForwarded": false
+    },
+    {
+        "id": "mkqcacbp",
+        "chatId": "mkqc4bibaztpkgum0uq",
+        "senderId": "mkqbpk8lbugo4yvbeji",
+        "type": "text",
+        "content": "pero osea es como una combinacion de ambos",
+        "timestamp": 1769140015333,
+        "isForwarded": false
     }
 ]
