@@ -87,6 +87,14 @@
             "username": "Gabo18",
             "action": "MENSAJE",
             "details": "Enviado a chat mkq577svifhn55w7t5"
+        },
+        {
+            "id": 1769128498406,
+            "timestamp": 1769128498406,
+            "userId": "mkq54y61jjjtbjnbc7",
+            "username": "difer",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
