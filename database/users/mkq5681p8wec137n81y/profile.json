@@ -5,16 +5,16 @@
     "displayName": "Gabo18",
     "customId": "2",
     "invisible": false,
-    "lastSeen": 1769128110831,
-    "friends": [],
+    "lastSeen": 1769128115343,
+    "friends": [
+        "mkq54y61jjjtbjnbc7"
+    ],
     "blockedUsers": [],
     "archivedChats": [],
     "darkMode": false,
     "statusNote": "",
     "isAdmin": false,
-    "friendRequests": [
-        "mkq54y61jjjtbjnbc7"
-    ],
+    "friendRequests": [],
     "chatRequests": [],
     "joinedAt": 1769128065853
 }
