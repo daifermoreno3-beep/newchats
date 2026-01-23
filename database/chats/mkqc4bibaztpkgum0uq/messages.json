@@ -132,5 +132,14 @@
         "content": "Me super estresaa",
         "timestamp": 1769140081360,
         "isForwarded": false
+    },
+    {
+        "id": "mkqcc4dm",
+        "chatId": "mkqc4bibaztpkgum0uq",
+        "senderId": "mkqbpk8lbugo4yvbeji",
+        "type": "text",
+        "content": "si",
+        "timestamp": 1769140098346,
+        "isForwarded": false
     }
 ]
