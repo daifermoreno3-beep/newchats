@@ -158,6 +158,14 @@
             "username": "ADMIN",
             "action": "RANGO",
             "details": "kuaker -> Admin"
+        },
+        {
+            "id": 1769139099427,
+            "timestamp": 1769139099427,
+            "userId": "mkqaq9876wejxbdzhmb",
+            "username": "kuaker",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
