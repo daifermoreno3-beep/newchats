@@ -53,7 +53,9 @@
                 "mkq6if87950pq7eotib"
             ],
             "blockedUsers": [],
-            "archivedChats": [],
+            "archivedChats": [
+                null
+            ],
             "darkMode": false,
             "statusNote": "TU CREADOR",
             "isAdmin": true,
