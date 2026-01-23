@@ -20,5 +20,15 @@
         }
     ],
     "chats": [],
-    "messages": []
+    "messages": [],
+    "logs": [
+        {
+            "id": 1769128008031,
+            "timestamp": 1769128008031,
+            "userId": "mkq54y61jjjtbjnbc7",
+            "username": "difer",
+            "action": "REGISTRO",
+            "details": "Cuenta creada con ID: 1"
+        }
+    ]
 }
