@@ -17,6 +17,24 @@
             "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769128006393
+        },
+        {
+            "id": "mkq5681p8wec137n81y",
+            "username": "Gabo18",
+            "password": "3725",
+            "displayName": "Gabo18",
+            "customId": "2",
+            "invisible": false,
+            "lastSeen": 1769128065853,
+            "friends": [],
+            "blockedUsers": [],
+            "archivedChats": [],
+            "darkMode": false,
+            "statusNote": "",
+            "isAdmin": false,
+            "friendRequests": [],
+            "chatRequests": [],
+            "joinedAt": 1769128065853
         }
     ],
     "chats": [],
