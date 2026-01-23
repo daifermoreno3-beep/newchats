@@ -129,6 +129,13 @@
             "username": "testuser123",
             "action": "LOGIN",
             "details": "Sesi\u00f3n iniciada"
+        },
+        {
+            "timestamp": 1769128941625,
+            "userId": "SYSTEM",
+            "username": "ADMIN",
+            "action": "RANGO",
+            "details": "Gabo18 -> Admin"
         }
     ]
 }
