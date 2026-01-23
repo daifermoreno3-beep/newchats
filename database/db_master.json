@@ -35,7 +35,7 @@
             "archivedChats": [],
             "darkMode": false,
             "statusNote": "",
-            "isAdmin": false,
+            "isAdmin": true,
             "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769128065853
