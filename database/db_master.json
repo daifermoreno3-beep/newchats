@@ -27,7 +27,7 @@
             "displayName": "Gabo18",
             "customId": "2",
             "invisible": false,
-            "lastSeen": 1769128116837,
+            "lastSeen": 1769128115343,
             "friends": [
                 "mkq54y61jjjtbjnbc7"
             ],
@@ -51,18 +51,7 @@
             ]
         }
     ],
-    "messages": [
-        {
-            "id": "mkq57c8wi5p7yo9ohep",
-            "chatId": "mkq577svifhn55w7t5",
-            "senderId": "mkq5681p8wec137n81y",
-            "receiverId": "mkq54y61jjjtbjnbc7",
-            "type": "text",
-            "content": "hola",
-            "timestamp": 1769128117952,
-            "isForwarded": false
-        }
-    ],
+    "messages": [],
     "logs": [
         {
             "id": 1769128008031,
@@ -79,14 +68,6 @@
             "username": "Gabo18",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 2"
-        },
-        {
-            "id": 1769128117966,
-            "timestamp": 1769128117966,
-            "userId": "mkq5681p8wec137n81y",
-            "username": "Gabo18",
-            "action": "MENSAJE",
-            "details": "Enviado a chat mkq577svifhn55w7t5"
         }
     ]
 }
