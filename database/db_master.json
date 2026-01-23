@@ -121,6 +121,14 @@
             "username": "testuser123",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 3"
+        },
+        {
+            "id": 1769128770840,
+            "timestamp": 1769128770840,
+            "userId": "mkq5iji2fe0wh2m6gm7",
+            "username": "testuser123",
+            "action": "LOGIN",
+            "details": "Sesi\u00f3n iniciada"
         }
     ]
 }
