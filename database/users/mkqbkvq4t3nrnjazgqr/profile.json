@@ -14,7 +14,9 @@
     "darkMode": false,
     "statusNote": "",
     "isAdmin": false,
-    "friendRequests": [],
+    "friendRequests": [
+        "mkqbpk8lbugo4yvbeji"
+    ],
     "chatRequests": [],
     "joinedAt": 1769138827420
 }
