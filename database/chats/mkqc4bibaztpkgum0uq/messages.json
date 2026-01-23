@@ -114,5 +114,14 @@
         "content": "no no",
         "timestamp": 1769139995643,
         "isForwarded": false
+    },
+    {
+        "id": "mkqcba5b",
+        "chatId": "mkqc4bibaztpkgum0uq",
+        "senderId": "mkqbkvq4t3nrnjazgqr",
+        "type": "text",
+        "content": "Dura mucho para enviar algoo",
+        "timestamp": 1769140059167,
+        "isForwarded": false
     }
 ]
