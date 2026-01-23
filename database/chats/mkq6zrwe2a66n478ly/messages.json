@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "id": "mkq70508",
+        "chatId": "mkq6zrwe2a66n478ly",
+        "senderId": "mkq6if87950pq7eotib",
+        "type": "text",
+        "content": "hola",
+        "timestamp": 1769131141208,
+        "isForwarded": false
+    }
+]
