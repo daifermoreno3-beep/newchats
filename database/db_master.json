@@ -106,6 +106,14 @@
             "username": "master",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 3"
+        },
+        {
+            "id": 1769138831791,
+            "timestamp": 1769138831791,
+            "userId": "mkqbkvq4t3nrnjazgqr",
+            "username": "Lalala",
+            "action": "REGISTRO",
+            "details": "Cuenta creada con ID: 3"
         }
     ]
 }
