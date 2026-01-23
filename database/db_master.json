@@ -106,6 +106,24 @@
             "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769136694925
+        },
+        {
+            "id": "mkqaj7wpkhddzqtb8ms",
+            "username": "kuaker",
+            "password": "2080",
+            "displayName": "kuaker",
+            "customId": "6",
+            "invisible": false,
+            "lastSeen": 1769137070281,
+            "friends": [],
+            "blockedUsers": [],
+            "archivedChats": [],
+            "darkMode": false,
+            "statusNote": "",
+            "isAdmin": false,
+            "friendRequests": [],
+            "chatRequests": [],
+            "joinedAt": 1769137070281
         }
     ],
     "chats": [
@@ -467,9 +485,9 @@
             "details": "Cuenta creada con ID: 5"
         },
         {
-            "id": 1769137074976,
-            "timestamp": 1769137074976,
-            "userId": "mkqaj7wpkhddzqtb8ms",
+            "id": 1769137079489,
+            "timestamp": 1769137079489,
+            "userId": "mkqajbpixj02jjqwsqe",
             "username": "kuaker",
             "action": "REGISTRO",
             "details": "Cuenta creada con ID: 6"
