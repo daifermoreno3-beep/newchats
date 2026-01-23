@@ -516,6 +516,13 @@
             "username": "ADMIN",
             "action": "RANGO",
             "details": "Gabo18 -> Admin"
+        },
+        {
+            "timestamp": 1769137279500,
+            "userId": "SYSTEM",
+            "username": "ADMIN",
+            "action": "RANGO",
+            "details": "difer -> Admin"
         }
     ]
 }
