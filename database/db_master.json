@@ -28,7 +28,7 @@
             "displayName": "Kuaker 2",
             "customId": "2",
             "invisible": false,
-            "lastSeen": 1769139985066,
+            "lastSeen": 1769140015963,
             "friends": [
                 "mkqaq9876wejxbdzhmb",
                 "mkqbkvq4t3nrnjazgqr"
@@ -257,15 +257,6 @@
             "type": "text",
             "content": "no no",
             "timestamp": 1769139995643,
-            "isForwarded": false
-        },
-        {
-            "id": "mkqcacbp",
-            "chatId": "mkqc4bibaztpkgum0uq",
-            "senderId": "mkqbpk8lbugo4yvbeji",
-            "type": "text",
-            "content": "pero osea es como una combinacion de ambos",
-            "timestamp": 1769140015333,
             "isForwarded": false
         }
     ],
