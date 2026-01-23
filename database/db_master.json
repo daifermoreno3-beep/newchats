@@ -39,6 +39,24 @@
             "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769128065853
+        },
+        {
+            "id": "mkq5iji2fe0wh2m6gm7",
+            "username": "testuser123",
+            "password": "password123",
+            "displayName": "testuser123",
+            "customId": "3",
+            "invisible": false,
+            "lastSeen": 1769128640570,
+            "friends": [],
+            "blockedUsers": [],
+            "archivedChats": [],
+            "darkMode": false,
+            "statusNote": "",
+            "isAdmin": false,
+            "friendRequests": [],
+            "chatRequests": [],
+            "joinedAt": 1769128640570
         }
     ],
     "chats": [
