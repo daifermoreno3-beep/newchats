@@ -258,6 +258,15 @@
             "content": "no no",
             "timestamp": 1769139995643,
             "isForwarded": false
+        },
+        {
+            "id": "mkqcb79d",
+            "chatId": "mkqbihm0ac33quyy1uq",
+            "senderId": "mkqaqb48k9hbd07obbq",
+            "type": "text",
+            "content": "jiqjfpi",
+            "timestamp": 1769140055425,
+            "isForwarded": false
         }
     ],
     "logs": [
