@@ -30,16 +30,15 @@
             "invisible": false,
             "lastSeen": 1769129996965,
             "friends": [
-                "mkq54y61jjjtbjnbc7"
+                "mkq54y61jjjtbjnbc7",
+                "mkq6if87950pq7eotib"
             ],
             "blockedUsers": [],
             "archivedChats": [],
             "darkMode": false,
             "statusNote": "",
             "isAdmin": false,
-            "friendRequests": [
-                "mkq6if87950pq7eotib"
-            ],
+            "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769128065853
         },
@@ -75,7 +74,8 @@
             "invisible": false,
             "lastSeen": 1769137019663,
             "friends": [
-                "mkq6gpnq956n3tb135g"
+                "mkq6gpnq956n3tb135g",
+                "mkq5681p8wec137n81y"
             ],
             "blockedUsers": [],
             "archivedChats": [
@@ -141,6 +141,14 @@
             "members": [
                 "mkq6if87950pq7eotib",
                 "mkq6gpnq956n3tb135g"
+            ]
+        },
+        {
+            "id": "mkqalo4o8iehrpcezfh",
+            "type": "private",
+            "members": [
+                "mkq5681p8wec137n81y",
+                "mkq6if87950pq7eotib"
             ]
         }
     ],
