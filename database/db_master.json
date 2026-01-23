@@ -6,7 +6,7 @@
             "password": "2080",
             "displayName": "kuaker",
             "customId": "1",
-            "invisible": false,
+            "invisible": true,
             "lastSeen": 1769139006531,
             "friends": [
                 "mkqaqb48k9hbd07obbq"
@@ -14,7 +14,7 @@
             "blockedUsers": [],
             "archivedChats": [],
             "darkMode": false,
-            "statusNote": "",
+            "statusNote": "Soy un Kuaker",
             "isAdmin": true,
             "friendRequests": [],
             "chatRequests": [],
