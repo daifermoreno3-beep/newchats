@@ -106,6 +106,24 @@
             "friendRequests": [],
             "chatRequests": [],
             "joinedAt": 1769136694925
+        },
+        {
+            "id": "mkqaj7wpkhddzqtb8ms",
+            "username": "kuaker",
+            "password": "2080",
+            "displayName": "kuaker",
+            "customId": "6",
+            "invisible": false,
+            "lastSeen": 1769137070281,
+            "friends": [],
+            "blockedUsers": [],
+            "archivedChats": [],
+            "darkMode": false,
+            "statusNote": "",
+            "isAdmin": false,
+            "friendRequests": [],
+            "chatRequests": [],
+            "joinedAt": 1769137070281
         }
     ],
     "chats": [
