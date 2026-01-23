@@ -507,6 +507,13 @@
             "username": "Gabo18",
             "action": "LOGIN",
             "details": "Sesi\u00f3n iniciada"
+        },
+        {
+            "timestamp": 1769137201542,
+            "userId": "SYSTEM",
+            "username": "ADMIN",
+            "action": "RANGO",
+            "details": "difer -> Admin"
         }
     ]
 }
