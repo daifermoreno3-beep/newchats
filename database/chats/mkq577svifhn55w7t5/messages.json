@@ -17,5 +17,14 @@
         "content": "hola",
         "timestamp": 1769129220535,
         "isForwarded": false
+    },
+    {
+        "id": "mkq5v3k6",
+        "chatId": "mkq577svifhn55w7t5",
+        "senderId": "mkq54y61jjjtbjnbc7",
+        "type": "text",
+        "content": "com oestas",
+        "timestamp": 1769129226438,
+        "isForwarded": false
     }
 ]
